@@ -88,3 +88,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 # QR-Code-Frontend-Mentor
 # QR-code-component
 # QR-code-component
+# QR-code-component
